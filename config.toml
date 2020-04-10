@@ -1,0 +1,79 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hugo-theme-hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[languages]
+  [languages.en]
+    title = "Suyash Negi"
+    subtitle = ""
+    keywords = "personal"
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "hello"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:negisuyash1998@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/negisuyash"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/suyash-negi-789231102/"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/suyash.negi_"
+
+  # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "about"
+    url        = "about/"
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "home"
+    name       = "home"
+    url        = "/"
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "career"
+    name       = "career"
+    url        = "/career"
+    # And you can even create generic menu
+  [[menu.main]]
+    identifier = "projects"
+    name       = "projects"
+    url        = "/projects"
