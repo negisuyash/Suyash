@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suyash Negi</title>
+    <link>/</link>
+    <description>Recent content on Suyash Negi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career</title>
+      <link>/career/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/career/</guid>
+      <description>Current Jun 2019 - Present :
+Currently working for Bank of America Continuum as Senior Technical Associate. As a fullstack developer, my work involves:
+ Creating frontend using Angular 8 framework. Developing Service side using Spring boot framework. Creating BPMN using Camunda BPMN. Working with Relation DB (Oracle SQL Server).   Past Experience Jan 2019 - Jun 2019 :
+Worked for Qfrog Logistics Pvt Ltd as Software Development Intern. As an intern, my work involves:</description>
+    </item>
+    
+    <item>
+      <title>Projects &amp; Skills</title>
+      <link>/projects/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Github
+My Skills   Programming Languages: Python(2.7/3.x), Java(1.8), PHP, TypeScript/JavaScript, C/C++.
+  Framework: Flask, Angular, React, Spring boot
+  OS: Windows(7,10), Linux(Fedora,Ubuntu)
+  IDE: Intellij idea, JetBrains PyCharm, Eclipse Mars/Oxygen, Visual Studio Code
+   Projects  Binary Differentiator using Neural Network: Binary Differentiator employes a neural network to make decision between binary choices. It doesn&amp;rsquo;t uses any library like tensorflow or keras or pytorch. It uses basic numpy library for mathematical calculations.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Fri, 10 Apr 2020 05:29:44 +0530</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hiya! You have found me :)
+GitHub | Instagram | LinkedIn
+Education CGC College of Engineering, Mohali  Course: B.Tech/BE Stream: Computer Science &amp;amp; Technology CGPA: 8.22/10   Kendriya Vidyalaya, Chandigarh  Board: CBSE Standard: 10+2 Stream: Non-med with CS Percentage: 86.2%   Kendriya Vidyalaya, Adampur  Board: CBSE Standard: 10 CGPA: 10/10   Hobbies &amp;amp; Interest  Exploring new places Adventure sports Watching TV series &amp;amp; movies (list coming soon) Trekking  </description>
+    </item>
+    
+  </channel>
+</rss>
